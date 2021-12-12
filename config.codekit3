@@ -9,11 +9,11 @@
 	],
 "creatorBuild": "26667",
 "files": {
-	"\/.scene.json.icloud": {
+	"\/.gitattributes": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/.scene.json.icloud",
+		"oAP": "\/.gitattributes",
 		"oF": 0
 		},
 	"\/index.html": {
@@ -39,6 +39,14 @@
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
+		},
+	"\/scene.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/scene-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
 		}
 	},
 "hooks": [
