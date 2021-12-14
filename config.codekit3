@@ -16,6 +16,38 @@
 		"oAP": "\/.gitattributes",
 		"oF": 0
 		},
+	"\/3d\/Blue2022.glb": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/3d\/Blue2022.glb",
+		"oF": 0
+		},
+	"\/3d\/Blue2022_card.glb": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/3d\/Blue2022_card.glb",
+		"oF": 0
+		},
+	"\/3d\/Blue2022_copos.glb": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/3d\/Blue2022_copos.glb",
+		"oF": 0
+		},
+	"\/3d\/poster.png": {
+		"ft": 32768,
+		"iS": 40525,
+		"oA": 0,
+		"oAP": "\/3d\/poster.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"\/favicon.png": {
 		"ft": 32768,
 		"iS": 1502,
@@ -32,6 +64,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/index.html",
+		"oF": 0
+		},
+	"\/index_spline.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/index_spline.html",
 		"oF": 0
 		},
 	"\/jbells.mp3": {
@@ -51,13 +90,12 @@
 		"sC": 3,
 		"tS": 0
 		},
-	"\/scene.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/scene-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
+	"\/song.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/song.mp3",
+		"oF": 0
 		}
 	},
 "hooks": [
